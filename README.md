@@ -18,7 +18,7 @@
       </td>
     </tr>
   </table><table align="center">
-<tr>
+<!-- <tr>
     <td align="center">
       <a href="https://solved.ac/ssangttuce/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssangttuce" alt="Solved.ac Profile" />
@@ -27,7 +27,7 @@
     <td align="center">
       <img src="https://leetcard.jacoblin.cool/ssangttuce?site=us" alt="LeetCode Profile" />
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 </div>
