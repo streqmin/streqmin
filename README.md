@@ -16,6 +16,11 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=streqmin&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
       </td>
+      <td align="center">
+      <a href="https://solved.ac/ssangttuce/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssangttuce" alt="Solved.ac Profile" />
+      </a>
+    </td>
     </tr>
   </table><table align="center">
 <!-- <tr>
@@ -27,7 +32,7 @@
     <td align="center">
       <img src="https://leetcard.jacoblin.cool/ssangttuce?site=us" alt="LeetCode Profile" />
     </td>
-  </tr> -->
+</tr> -->
 </table>
 
 </div>
